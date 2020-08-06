@@ -1,0 +1,7 @@
+*.rar
+/Binaries
+/Saved
+/.vs
+/Intermediate
+/Content/StarterContent
+/DerivedDataCache
